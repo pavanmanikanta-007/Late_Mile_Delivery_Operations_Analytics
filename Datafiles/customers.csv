@@ -1,0 +1,401 @@
+customer_id,customer_name,city,delivery_zone_id,preferred_time_slot,customer_type,account_since
+DLVCUST0000001,Emma Green,Sacramento,ZONE0003,Evening (17-21),Business,6/20/2021
+DLVCUST0000002,Brian Li,Seattle,ZONE0016,Afternoon (12-17),Individual,9/25/2022
+DLVCUST0000003,Paul Miller,El Paso,ZONE0018,Any,Individual,10/24/2021
+DLVCUST0000004,Jacob Perez,Louisville,ZONE0017,Evening (17-21),Individual,11/20/2020
+DLVCUST0000005,Pooja Shah,San Antonio,ZONE0002,Evening (17-21),Individual,12/21/2020
+DLVCUST0000006,Alexander Scott,St. Louis,ZONE0019,Any,Business,11/25/2022
+DLVCUST0000007,Shirley Traoré,Raleigh,ZONE0020,Evening (17-21),Business,5/7/2022
+DLVCUST0000008,Nancy Baker,El Paso,ZONE0006,Evening (17-21),Business,6/16/2022
+DLVCUST0000009,William Osei,St. Louis,ZONE0019,Evening (17-21),Individual,5/2/2021
+DLVCUST0000010,Sharon Li,Louisville,ZONE0005,Any,Individual,5/14/2022
+DLVCUST0000011,Betty Gupta,St. Louis,ZONE0019,Afternoon (12-17),Individual,5/17/2022
+DLVCUST0000012,Thomas Choi,Virginia Beach,ZONE0014,Morning (8-12),Individual,6/17/2021
+DLVCUST0000013,Daniel Taylor,El Paso,ZONE0008,Any,Business,3/1/2023
+DLVCUST0000014,Maria Smith,St. Louis,ZONE0019,Evening (17-21),Individual,2/5/2023
+DLVCUST0000015,Gregory Torres,Stockton,ZONE0010,Evening (17-21),Individual,2/10/2023
+DLVCUST0000016,Samuel Koné,Charlotte,ZONE0001,Afternoon (12-17),Individual,6/25/2021
+DLVCUST0000017,Sarah Johnson,El Paso,ZONE0008,Afternoon (12-17),Individual,11/3/2021
+DLVCUST0000018,Ryan Wright,Washington,ZONE0013,Evening (17-21),Individual,2/4/2021
+DLVCUST0000019,Anna Harris,El Paso,ZONE0008,Any,Business,6/11/2021
+DLVCUST0000020,Patricia Yang,Raleigh,ZONE0020,Morning (8-12),Business,8/2/2022
+DLVCUST0000021,Edward Mehta,St. Louis,ZONE0019,Afternoon (12-17),Business,7/10/2023
+DLVCUST0000022,Joshua Joshi,Sacramento,ZONE0003,Evening (17-21),Individual,11/4/2022
+DLVCUST0000023,Rachel Adams,Austin,ZONE0004,Any,Business,1/25/2023
+DLVCUST0000024,Jacob Martin,St. Louis,ZONE0019,Evening (17-21),Business,11/12/2022
+DLVCUST0000025,Anthony Brown,Louisville,ZONE0005,Evening (17-21),Individual,12/16/2023
+DLVCUST0000026,Mary Sanchez,St. Louis,ZONE0019,Afternoon (12-17),Individual,9/8/2023
+DLVCUST0000027,Emma Li,Washington,ZONE0013,Afternoon (12-17),Individual,2/18/2020
+DLVCUST0000028,Arjun Kang,Austin,ZONE0004,Any,Business,6/1/2021
+DLVCUST0000029,Ling Park,Austin,ZONE0004,Morning (8-12),Individual,9/5/2023
+DLVCUST0000030,Mary Joshi,El Paso,ZONE0018,Afternoon (12-17),Individual,4/29/2020
+DLVCUST0000031,Jerry Hill,Austin,ZONE0004,Evening (17-21),Business,5/21/2021
+DLVCUST0000032,Amit Johnson,El Paso,ZONE0018,Morning (8-12),Individual,6/29/2023
+DLVCUST0000033,Joseph Park,San Antonio,ZONE0002,Afternoon (12-17),Individual,2/25/2022
+DLVCUST0000034,Margaret Davis,Austin,ZONE0004,Afternoon (12-17),Individual,11/3/2022
+DLVCUST0000035,Nancy Wright,Austin,ZONE0004,Any,Business,12/11/2023
+DLVCUST0000036,Hui Baker,Louisville,ZONE0005,Any,Individual,9/5/2021
+DLVCUST0000037,Ling Koné,Louisville,ZONE0005,Afternoon (12-17),Individual,6/3/2022
+DLVCUST0000038,Ryan Thomas,Louisville,ZONE0017,Evening (17-21),Business,6/30/2020
+DLVCUST0000039,Ashley Moore,Jacksonville,ZONE0012,Afternoon (12-17),Business,9/14/2020
+DLVCUST0000040,Anthony Rodriguez,Louisville,ZONE0005,Evening (17-21),Individual,12/3/2023
+DLVCUST0000041,Scott Flores,El Paso,ZONE0008,Afternoon (12-17),Business,10/17/2022
+DLVCUST0000042,Stephanie Clark,Seattle,ZONE0016,Any,Individual,8/31/2020
+DLVCUST0000043,Amit Martinez,Jacksonville,ZONE0012,Evening (17-21),Individual,6/24/2022
+DLVCUST0000044,Dorothy Zhang,San Jose,ZONE0015,Any,Individual,3/9/2020
+DLVCUST0000045,Justin Mensah,Seattle,ZONE0016,Afternoon (12-17),Individual,3/20/2021
+DLVCUST0000046,Fang Okonkwo,San Antonio,ZONE0002,Evening (17-21),Individual,3/5/2021
+DLVCUST0000047,Brenda Okonkwo,Louisville,ZONE0017,Evening (17-21),Individual,12/7/2022
+DLVCUST0000048,Betty Huang,San Antonio,ZONE0011,Morning (8-12),Individual,7/23/2020
+DLVCUST0000049,Liam Torres,El Paso,ZONE0008,Evening (17-21),Individual,10/8/2022
+DLVCUST0000050,Carolyn Rivera,Washington,ZONE0013,Morning (8-12),Individual,5/27/2021
+DLVCUST0000051,Patricia Campbell,Seattle,ZONE0016,Afternoon (12-17),Business,5/11/2023
+DLVCUST0000052,Alexander Young,Washington,ZONE0013,Any,Business,8/24/2022
+DLVCUST0000053,Edward Thompson,Washington,ZONE0013,Evening (17-21),Business,12/20/2021
+DLVCUST0000054,Jeffrey Jackson,Virginia Beach,ZONE0014,Morning (8-12),Business,5/27/2022
+DLVCUST0000055,Eric Davis,St. Louis,ZONE0019,Evening (17-21),Individual,5/5/2023
+DLVCUST0000056,Vijay Moore,Austin,ZONE0004,Afternoon (12-17),Individual,1/16/2023
+DLVCUST0000057,Patricia Taylor,Louisville,ZONE0017,Evening (17-21),Individual,5/15/2020
+DLVCUST0000058,Jeffrey Lopez,El Paso,ZONE0018,Any,Individual,5/31/2023
+DLVCUST0000059,Christopher White,Louisville,ZONE0005,Any,Individual,6/9/2020
+DLVCUST0000060,Jerry Torres,Sacramento,ZONE0003,Any,Individual,9/10/2020
+DLVCUST0000061,Alexander Gonzalez,Washington,ZONE0013,Any,Business,1/9/2021
+DLVCUST0000062,Jack Lopez,Charlotte,ZONE0001,Afternoon (12-17),Business,1/12/2023
+DLVCUST0000063,Brian Gonzalez,Virginia Beach,ZONE0014,Morning (8-12),Individual,11/10/2022
+DLVCUST0000064,Justin Martin,Sacramento,ZONE0003,Any,Individual,12/12/2020
+DLVCUST0000065,Thomas Han,San Antonio,ZONE0002,Any,Individual,6/6/2022
+DLVCUST0000066,Donald Yoon,San Antonio,ZONE0011,Afternoon (12-17),Business,5/22/2022
+DLVCUST0000067,Yan Jackson,Stockton,ZONE0010,Morning (8-12),Individual,4/3/2020
+DLVCUST0000068,Kathleen White,Jacksonville,ZONE0012,Any,Business,3/5/2022
+DLVCUST0000069,Sneha Jones,El Paso,ZONE0018,Afternoon (12-17),Business,6/5/2023
+DLVCUST0000070,Elizabeth Wang,Stockton,ZONE0010,Evening (17-21),Individual,8/6/2020
+DLVCUST0000071,Christopher Sow,Charlotte,ZONE0001,Afternoon (12-17),Business,8/30/2022
+DLVCUST0000072,Matthew Mehta,St. Louis,ZONE0019,Morning (8-12),Individual,8/30/2023
+DLVCUST0000073,Jeffrey Patel,El Paso,ZONE0006,Afternoon (12-17),Individual,9/14/2023
+DLVCUST0000074,Richard Adams,Charlotte,ZONE0001,Any,Individual,11/4/2021
+DLVCUST0000075,Dorothy Wilson,Austin,ZONE0004,Afternoon (12-17),Individual,9/12/2022
+DLVCUST0000076,Gregory Davis,Austin,ZONE0004,Evening (17-21),Individual,9/11/2022
+DLVCUST0000077,Sarah Sanchez,Stockton,ZONE0010,Any,Individual,6/3/2021
+DLVCUST0000078,Donna Choi,Louisville,ZONE0005,Any,Business,5/24/2022
+DLVCUST0000079,Linda Williams,Jacksonville,ZONE0012,Any,Individual,12/27/2020
+DLVCUST0000080,Ling Jones,Louisville,ZONE0005,Morning (8-12),Individual,7/28/2021
+DLVCUST0000081,Kathleen Nelson,Philadelphia,ZONE0007,Evening (17-21),Individual,7/4/2022
+DLVCUST0000082,Christopher Nguyen,Stockton,ZONE0010,Evening (17-21),Business,10/30/2022
+DLVCUST0000083,Brenda Liu,Raleigh,ZONE0020,Evening (17-21),Business,12/27/2023
+DLVCUST0000084,Jonathan Ramirez,San Jose,ZONE0015,Evening (17-21),Business,5/27/2022
+DLVCUST0000085,Jerry Allen,Stockton,ZONE0010,Any,Individual,3/25/2021
+DLVCUST0000086,Benjamin Diallo,El Paso,ZONE0006,Morning (8-12),Individual,11/6/2023
+DLVCUST0000087,Maria Park,Charlotte,ZONE0001,Evening (17-21),Individual,3/15/2020
+DLVCUST0000088,Joshua Roberts,Philadelphia,ZONE0007,Morning (8-12),Business,6/23/2020
+DLVCUST0000089,Liam Osei,Austin,ZONE0004,Any,Individual,7/31/2020
+DLVCUST0000090,Michelle Cho,Jacksonville,ZONE0012,Evening (17-21),Individual,12/2/2020
+DLVCUST0000091,Kimberly Nair,Virginia Beach,ZONE0014,Afternoon (12-17),Individual,11/7/2021
+DLVCUST0000092,Nicholas Davis,Washington,ZONE0013,Any,Individual,1/12/2020
+DLVCUST0000093,Xiao Rodriguez,Virginia Beach,ZONE0014,Afternoon (12-17),Business,1/13/2022
+DLVCUST0000094,Brenda Ndidi,El Paso,ZONE0006,Any,Individual,2/12/2022
+DLVCUST0000095,Sofia Sanchez,Virginia Beach,ZONE0014,Any,Individual,2/14/2020
+DLVCUST0000096,Michelle Nelson,Louisville,ZONE0005,Morning (8-12),Individual,3/28/2021
+DLVCUST0000097,Lei Hall,Raleigh,ZONE0020,Any,Individual,4/1/2023
+DLVCUST0000098,Frank Gonzalez,Louisville,ZONE0017,Evening (17-21),Individual,6/8/2022
+DLVCUST0000099,Nicholas Scott,San Antonio,ZONE0002,Afternoon (12-17),Individual,12/17/2022
+DLVCUST0000100,Cynthia Lee,Pittsburgh,ZONE0009,Morning (8-12),Business,3/8/2020
+DLVCUST0000101,Brandon Gupta,St. Louis,ZONE0019,Any,Individual,4/6/2023
+DLVCUST0000102,Jeffrey Martinez,Raleigh,ZONE0020,Afternoon (12-17),Business,12/3/2020
+DLVCUST0000103,Joshua Lopez,Sacramento,ZONE0003,Any,Business,8/1/2021
+DLVCUST0000104,Mark Thompson,Charlotte,ZONE0001,Afternoon (12-17),Business,9/15/2020
+DLVCUST0000105,Edward Okonkwo,Pittsburgh,ZONE0009,Afternoon (12-17),Individual,10/12/2023
+DLVCUST0000106,Isabella Jackson,St. Louis,ZONE0019,Morning (8-12),Individual,11/28/2023
+DLVCUST0000107,Sandra Okonkwo,Philadelphia,ZONE0007,Evening (17-21),Individual,8/25/2020
+DLVCUST0000108,Andrew Smith,Jacksonville,ZONE0012,Morning (8-12),Individual,11/15/2021
+DLVCUST0000109,Frank Martinez,St. Louis,ZONE0019,Any,Individual,1/26/2020
+DLVCUST0000110,Rahul Lee,Virginia Beach,ZONE0014,Morning (8-12),Individual,9/3/2022
+DLVCUST0000111,George Choi,El Paso,ZONE0018,Morning (8-12),Individual,4/10/2020
+DLVCUST0000112,Kimberly Walker,Stockton,ZONE0010,Morning (8-12),Individual,11/21/2021
+DLVCUST0000113,Kathleen Hernandez,Philadelphia,ZONE0007,Morning (8-12),Business,1/14/2020
+DLVCUST0000114,Alexander Lopez,Washington,ZONE0013,Afternoon (12-17),Business,11/1/2022
+DLVCUST0000115,Emily Diallo,Charlotte,ZONE0001,Morning (8-12),Individual,11/4/2022
+DLVCUST0000116,Justin Carter,Louisville,ZONE0005,Afternoon (12-17),Business,4/26/2020
+DLVCUST0000117,Jason Torres,San Jose,ZONE0015,Afternoon (12-17),Individual,2/7/2023
+DLVCUST0000118,Rohit Diallo,El Paso,ZONE0006,Afternoon (12-17),Individual,10/23/2023
+DLVCUST0000119,Priya Sanchez,San Antonio,ZONE0002,Afternoon (12-17),Individual,10/13/2022
+DLVCUST0000120,Elizabeth Moore,Charlotte,ZONE0001,Any,Business,5/7/2021
+DLVCUST0000121,Katherine King,San Jose,ZONE0015,Any,Business,5/5/2023
+DLVCUST0000122,Isabella Rivera,Virginia Beach,ZONE0014,Morning (8-12),Individual,8/16/2023
+DLVCUST0000123,Janet Nelson,San Antonio,ZONE0011,Morning (8-12),Business,4/5/2022
+DLVCUST0000124,Amit Choi,Louisville,ZONE0017,Any,Individual,12/21/2021
+DLVCUST0000125,Patricia Hill,Jacksonville,ZONE0012,Morning (8-12),Individual,7/13/2022
+DLVCUST0000126,Elizabeth Adams,Pittsburgh,ZONE0009,Any,Business,5/27/2021
+DLVCUST0000127,Ming Koné,Pittsburgh,ZONE0009,Any,Business,12/10/2020
+DLVCUST0000128,Susan White,St. Louis,ZONE0019,Afternoon (12-17),Individual,11/16/2021
+DLVCUST0000129,Larry Thomas,Washington,ZONE0013,Afternoon (12-17),Individual,8/17/2023
+DLVCUST0000130,Larry Harris,El Paso,ZONE0008,Afternoon (12-17),Individual,11/4/2022
+DLVCUST0000131,Maria Nair,Louisville,ZONE0005,Any,Business,11/8/2020
+DLVCUST0000132,Karen Young,Louisville,ZONE0017,Afternoon (12-17),Individual,10/27/2020
+DLVCUST0000133,Benjamin Robinson,Jacksonville,ZONE0012,Any,Business,4/8/2020
+DLVCUST0000134,Dorothy Brown,El Paso,ZONE0006,Afternoon (12-17),Individual,1/1/2023
+DLVCUST0000135,Linda Huang,El Paso,ZONE0018,Afternoon (12-17),Business,5/19/2020
+DLVCUST0000136,Kathleen Lopez,St. Louis,ZONE0019,Evening (17-21),Individual,5/29/2022
+DLVCUST0000137,Kenneth Taylor,Stockton,ZONE0010,Morning (8-12),Business,10/21/2022
+DLVCUST0000138,Lei Taylor,Louisville,ZONE0005,Any,Individual,9/6/2021
+DLVCUST0000139,Rebecca Kang,San Antonio,ZONE0002,Afternoon (12-17),Individual,7/5/2020
+DLVCUST0000140,George Park,El Paso,ZONE0006,Afternoon (12-17),Business,12/1/2023
+DLVCUST0000141,Emily Singh,Jacksonville,ZONE0012,Afternoon (12-17),Business,7/4/2022
+DLVCUST0000142,Ashley Jones,San Antonio,ZONE0002,Morning (8-12),Business,9/30/2023
+DLVCUST0000143,Anna Kang,Jacksonville,ZONE0012,Afternoon (12-17),Business,5/7/2023
+DLVCUST0000144,Mark Gupta,Charlotte,ZONE0001,Evening (17-21),Individual,3/8/2021
+DLVCUST0000145,Rachel Ndidi,Seattle,ZONE0016,Evening (17-21),Individual,5/29/2020
+DLVCUST0000146,Divya Wu,El Paso,ZONE0018,Morning (8-12),Individual,9/9/2021
+DLVCUST0000147,Justin Adesanya,Seattle,ZONE0016,Morning (8-12),Individual,12/27/2023
+DLVCUST0000148,Jerry Yang,Virginia Beach,ZONE0014,Morning (8-12),Business,3/2/2022
+DLVCUST0000149,Richard Park,Louisville,ZONE0005,Afternoon (12-17),Business,6/18/2020
+DLVCUST0000150,Donna Zhao,Washington,ZONE0013,Evening (17-21),Business,9/20/2022
+DLVCUST0000151,Rachel King,Raleigh,ZONE0020,Afternoon (12-17),Individual,10/16/2021
+DLVCUST0000152,Patrick Miller,Raleigh,ZONE0020,Evening (17-21),Individual,3/1/2020
+DLVCUST0000153,Larry Hill,Seattle,ZONE0016,Afternoon (12-17),Individual,6/20/2023
+DLVCUST0000154,Anthony Cho,Virginia Beach,ZONE0014,Morning (8-12),Individual,9/30/2023
+DLVCUST0000155,Gregory Patel,San Jose,ZONE0015,Morning (8-12),Individual,2/16/2022
+DLVCUST0000156,Karen Zhou,San Antonio,ZONE0002,Evening (17-21),Business,5/16/2022
+DLVCUST0000157,Dorothy Robinson,Washington,ZONE0013,Any,Individual,5/23/2023
+DLVCUST0000158,Stephanie Park,Pittsburgh,ZONE0009,Any,Individual,7/12/2022
+DLVCUST0000159,Scott Liu,El Paso,ZONE0018,Evening (17-21),Individual,9/2/2020
+DLVCUST0000160,Cynthia Gupta,Pittsburgh,ZONE0009,Any,Individual,9/11/2022
+DLVCUST0000161,Donald Hernandez,Pittsburgh,ZONE0009,Evening (17-21),Business,8/24/2020
+DLVCUST0000162,Brenda Wang,Charlotte,ZONE0001,Evening (17-21),Individual,4/16/2022
+DLVCUST0000163,Pooja Carter,Charlotte,ZONE0001,Morning (8-12),Business,4/12/2023
+DLVCUST0000164,Brandon Kumar,El Paso,ZONE0006,Evening (17-21),Individual,7/12/2020
+DLVCUST0000165,Emily Kang,Virginia Beach,ZONE0014,Evening (17-21),Individual,11/2/2023
+DLVCUST0000166,Donna Adams,St. Louis,ZONE0019,Any,Individual,3/6/2020
+DLVCUST0000167,Steven Lee,Philadelphia,ZONE0007,Morning (8-12),Business,7/14/2023
+DLVCUST0000168,Anthony Adams,El Paso,ZONE0018,Afternoon (12-17),Individual,6/2/2020
+DLVCUST0000169,Lei Torres,Seattle,ZONE0016,Afternoon (12-17),Business,8/16/2020
+DLVCUST0000170,Carol Wang,Washington,ZONE0013,Any,Individual,10/16/2022
+DLVCUST0000171,Michael Yang,San Jose,ZONE0015,Afternoon (12-17),Individual,1/5/2021
+DLVCUST0000172,Angela Williams,Raleigh,ZONE0020,Morning (8-12),Individual,5/4/2020
+DLVCUST0000173,Joshua Hill,Raleigh,ZONE0020,Any,Individual,2/25/2023
+DLVCUST0000174,Jacob Harris,El Paso,ZONE0006,Afternoon (12-17),Individual,3/1/2021
+DLVCUST0000175,Anna White,Sacramento,ZONE0003,Morning (8-12),Individual,5/1/2020
+DLVCUST0000176,Melissa Wright,St. Louis,ZONE0019,Evening (17-21),Individual,6/9/2021
+DLVCUST0000177,Shirley Walker,Louisville,ZONE0005,Any,Individual,9/24/2022
+DLVCUST0000178,Jessica Shah,Jacksonville,ZONE0012,Any,Individual,6/24/2022
+DLVCUST0000179,Priya Singh,San Antonio,ZONE0002,Afternoon (12-17),Business,1/19/2020
+DLVCUST0000180,Mia Allen,El Paso,ZONE0006,Morning (8-12),Business,1/14/2021
+DLVCUST0000181,Dorothy Lim,Louisville,ZONE0005,Afternoon (12-17),Individual,3/28/2021
+DLVCUST0000182,Heather Lewis,Raleigh,ZONE0020,Evening (17-21),Individual,10/29/2020
+DLVCUST0000183,Angela Diallo,Washington,ZONE0013,Any,Business,6/25/2021
+DLVCUST0000184,Jack Gonzalez,Jacksonville,ZONE0012,Any,Business,9/26/2023
+DLVCUST0000185,Christine Green,Philadelphia,ZONE0007,Evening (17-21),Individual,10/30/2023
+DLVCUST0000186,William Jackson,Charlotte,ZONE0001,Morning (8-12),Business,4/30/2022
+DLVCUST0000187,Divya Anderson,Jacksonville,ZONE0012,Evening (17-21),Business,6/20/2020
+DLVCUST0000188,Maria Green,Virginia Beach,ZONE0014,Morning (8-12),Individual,5/26/2022
+DLVCUST0000189,Rebecca Nelson,Raleigh,ZONE0020,Afternoon (12-17),Individual,7/26/2022
+DLVCUST0000190,Hong Garcia,Pittsburgh,ZONE0009,Any,Business,12/12/2020
+DLVCUST0000191,Timothy Kang,San Antonio,ZONE0011,Any,Individual,3/17/2022
+DLVCUST0000192,Shirley Williams,San Antonio,ZONE0002,Any,Individual,11/2/2021
+DLVCUST0000193,Divya White,Seattle,ZONE0016,Morning (8-12),Individual,6/11/2021
+DLVCUST0000194,Michael Mbeki,Charlotte,ZONE0001,Afternoon (12-17),Business,4/9/2022
+DLVCUST0000195,Matthew King,Stockton,ZONE0010,Afternoon (12-17),Individual,2/25/2020
+DLVCUST0000196,Jack Gonzalez,Charlotte,ZONE0001,Morning (8-12),Individual,1/15/2023
+DLVCUST0000197,Janet Wang,Stockton,ZONE0010,Any,Individual,6/9/2022
+DLVCUST0000198,Steven Huang,Austin,ZONE0004,Any,Individual,8/9/2021
+DLVCUST0000199,Linda Nair,El Paso,ZONE0018,Morning (8-12),Individual,2/3/2021
+DLVCUST0000200,Dennis Nelson,Raleigh,ZONE0020,Any,Individual,9/17/2022
+DLVCUST0000201,Dorothy Li,Stockton,ZONE0010,Afternoon (12-17),Individual,2/21/2021
+DLVCUST0000202,Catherine Iyer,El Paso,ZONE0018,Morning (8-12),Business,9/6/2023
+DLVCUST0000203,Mary Huang,Austin,ZONE0004,Evening (17-21),Individual,6/18/2023
+DLVCUST0000204,Helen Shah,Louisville,ZONE0005,Morning (8-12),Individual,12/17/2023
+DLVCUST0000205,Michelle Huang,Washington,ZONE0013,Any,Individual,6/25/2021
+DLVCUST0000206,Patricia Clark,Louisville,ZONE0005,Morning (8-12),Individual,4/12/2020
+DLVCUST0000207,Margaret Cho,Washington,ZONE0013,Morning (8-12),Individual,11/28/2020
+DLVCUST0000208,Arjun Chen,Pittsburgh,ZONE0009,Any,Individual,12/15/2022
+DLVCUST0000209,Vijay Thompson,Washington,ZONE0013,Any,Individual,3/6/2020
+DLVCUST0000210,Joshua Ndidi,Pittsburgh,ZONE0009,Evening (17-21),Individual,2/6/2023
+DLVCUST0000211,Dennis Clark,Virginia Beach,ZONE0014,Morning (8-12),Individual,3/22/2020
+DLVCUST0000212,Andrew Nair,Seattle,ZONE0016,Evening (17-21),Business,5/2/2021
+DLVCUST0000213,Charles Adesanya,San Antonio,ZONE0011,Any,Business,6/2/2020
+DLVCUST0000214,Anthony Mbeki,San Jose,ZONE0015,Any,Individual,3/11/2022
+DLVCUST0000215,Divya Lim,San Antonio,ZONE0002,Afternoon (12-17),Individual,9/6/2023
+DLVCUST0000216,Catherine Allen,San Antonio,ZONE0002,Evening (17-21),Business,3/13/2023
+DLVCUST0000217,Michael Sow,Sacramento,ZONE0003,Evening (17-21),Individual,5/15/2023
+DLVCUST0000218,Jessica Gupta,Sacramento,ZONE0003,Morning (8-12),Business,3/20/2021
+DLVCUST0000219,Ming Park,El Paso,ZONE0018,Any,Individual,11/14/2022
+DLVCUST0000220,Jonathan Singh,San Antonio,ZONE0002,Evening (17-21),Individual,7/12/2020
+DLVCUST0000221,Nicholas Mbeki,Raleigh,ZONE0020,Morning (8-12),Individual,1/23/2023
+DLVCUST0000222,Emma Perez,Seattle,ZONE0016,Afternoon (12-17),Individual,12/3/2021
+DLVCUST0000223,Arjun Garcia,Jacksonville,ZONE0012,Morning (8-12),Individual,1/6/2020
+DLVCUST0000224,Fang Roberts,Seattle,ZONE0016,Evening (17-21),Business,10/4/2023
+DLVCUST0000225,Robert Martin,San Antonio,ZONE0011,Evening (17-21),Business,3/23/2023
+DLVCUST0000226,Lisa Cho,San Antonio,ZONE0002,Evening (17-21),Individual,1/31/2023
+DLVCUST0000227,Barbara Young,San Antonio,ZONE0011,Any,Individual,12/8/2021
+DLVCUST0000228,Ashley Scott,El Paso,ZONE0018,Any,Individual,6/2/2023
+DLVCUST0000229,Sofia Flores,El Paso,ZONE0018,Afternoon (12-17),Individual,8/4/2023
+DLVCUST0000230,Maria Mehta,San Antonio,ZONE0002,Afternoon (12-17),Individual,4/2/2020
+DLVCUST0000231,William Scott,Seattle,ZONE0016,Afternoon (12-17),Business,8/28/2020
+DLVCUST0000232,Amy King,Austin,ZONE0004,Any,Business,7/28/2021
+DLVCUST0000233,James Flores,Stockton,ZONE0010,Any,Individual,4/30/2020
+DLVCUST0000234,Paul Joshi,Jacksonville,ZONE0012,Evening (17-21),Individual,8/10/2021
+DLVCUST0000235,Ava Ramirez,Jacksonville,ZONE0012,Morning (8-12),Business,9/22/2023
+DLVCUST0000236,Ming Mitchell,Seattle,ZONE0016,Evening (17-21),Individual,12/2/2020
+DLVCUST0000237,Ashley Gonzalez,Charlotte,ZONE0001,Evening (17-21),Individual,1/14/2022
+DLVCUST0000238,Priya Choi,Louisville,ZONE0005,Morning (8-12),Individual,4/5/2020
+DLVCUST0000239,Michelle Diallo,Louisville,ZONE0017,Morning (8-12),Business,4/30/2022
+DLVCUST0000240,Jeffrey Williams,El Paso,ZONE0008,Afternoon (12-17),Individual,5/8/2020
+DLVCUST0000241,Nancy Hill,Austin,ZONE0004,Any,Individual,12/26/2023
+DLVCUST0000242,Charles Campbell,Washington,ZONE0013,Evening (17-21),Individual,4/6/2020
+DLVCUST0000243,Lei Nguyen,San Antonio,ZONE0002,Evening (17-21),Individual,4/4/2022
+DLVCUST0000244,Justin Mehta,Pittsburgh,ZONE0009,Evening (17-21),Individual,10/6/2022
+DLVCUST0000245,Jerry Allen,Jacksonville,ZONE0012,Any,Individual,1/24/2020
+DLVCUST0000246,Nicholas Allen,Raleigh,ZONE0020,Any,Individual,9/9/2022
+DLVCUST0000247,Fang Ramirez,Jacksonville,ZONE0012,Any,Business,10/11/2023
+DLVCUST0000248,Jeffrey Yang,San Antonio,ZONE0011,Any,Business,12/25/2021
+DLVCUST0000249,Mason Iyer,Seattle,ZONE0016,Morning (8-12),Business,2/1/2021
+DLVCUST0000250,Donna Liu,Pittsburgh,ZONE0009,Evening (17-21),Individual,1/28/2023
+DLVCUST0000251,Mia Walker,San Jose,ZONE0015,Morning (8-12),Individual,6/22/2021
+DLVCUST0000252,Raymond Moore,Louisville,ZONE0017,Any,Business,7/20/2020
+DLVCUST0000253,Jerry Allen,El Paso,ZONE0018,Morning (8-12),Individual,12/14/2020
+DLVCUST0000254,George Taylor,San Antonio,ZONE0002,Afternoon (12-17),Business,7/14/2020
+DLVCUST0000255,Cynthia Kim,Seattle,ZONE0016,Morning (8-12),Business,2/15/2020
+DLVCUST0000256,Susan Liu,Stockton,ZONE0010,Afternoon (12-17),Individual,3/24/2023
+DLVCUST0000257,Gary Ramirez,Virginia Beach,ZONE0014,Morning (8-12),Individual,4/2/2021
+DLVCUST0000258,Alexander Taylor,Pittsburgh,ZONE0009,Evening (17-21),Individual,11/7/2023
+DLVCUST0000259,Susan Rivera,St. Louis,ZONE0019,Afternoon (12-17),Individual,9/4/2023
+DLVCUST0000260,Carolyn Baker,Austin,ZONE0004,Afternoon (12-17),Individual,1/14/2020
+DLVCUST0000261,Jessica Kumar,Louisville,ZONE0005,Any,Individual,11/18/2021
+DLVCUST0000262,Deborah Clark,Louisville,ZONE0005,Any,Individual,11/24/2020
+DLVCUST0000263,Ashley King,Virginia Beach,ZONE0014,Afternoon (12-17),Individual,5/26/2023
+DLVCUST0000264,Wei Torres,Louisville,ZONE0005,Morning (8-12),Individual,8/6/2021
+DLVCUST0000265,Elizabeth Thomas,Stockton,ZONE0010,Afternoon (12-17),Individual,3/20/2022
+DLVCUST0000266,Sandra Okonkwo,Philadelphia,ZONE0007,Evening (17-21),Individual,8/23/2022
+DLVCUST0000267,Christine Lee,Stockton,ZONE0010,Morning (8-12),Individual,3/23/2020
+DLVCUST0000268,William Ramirez,Pittsburgh,ZONE0009,Morning (8-12),Individual,8/29/2022
+DLVCUST0000269,Betty Iyer,San Jose,ZONE0015,Afternoon (12-17),Individual,6/2/2022
+DLVCUST0000270,Melissa Young,Washington,ZONE0013,Afternoon (12-17),Business,2/4/2022
+DLVCUST0000271,Kathleen King,Sacramento,ZONE0003,Any,Individual,5/25/2021
+DLVCUST0000272,Sharon Rivera,Washington,ZONE0013,Afternoon (12-17),Business,7/16/2022
+DLVCUST0000273,Deborah Sanchez,El Paso,ZONE0006,Evening (17-21),Individual,6/12/2023
+DLVCUST0000274,Barbara Lim,Louisville,ZONE0017,Evening (17-21),Individual,6/27/2021
+DLVCUST0000275,Ryan Gonzalez,Louisville,ZONE0017,Any,Business,6/22/2020
+DLVCUST0000276,Amit Johnson,Sacramento,ZONE0003,Evening (17-21),Business,5/11/2020
+DLVCUST0000277,Vijay Perez,Austin,ZONE0004,Afternoon (12-17),Business,4/15/2021
+DLVCUST0000278,Cynthia Joshi,Stockton,ZONE0010,Afternoon (12-17),Individual,1/2/2022
+DLVCUST0000279,David Sanchez,Stockton,ZONE0010,Morning (8-12),Individual,9/21/2022
+DLVCUST0000280,Brandon Lee,El Paso,ZONE0018,Any,Individual,11/6/2023
+DLVCUST0000281,Christopher Adams,Stockton,ZONE0010,Any,Individual,1/17/2020
+DLVCUST0000282,Jerry Park,Austin,ZONE0004,Morning (8-12),Individual,5/19/2023
+DLVCUST0000283,Kimberly Adesanya,Washington,ZONE0013,Morning (8-12),Individual,12/27/2022
+DLVCUST0000284,Scott Campbell,San Antonio,ZONE0011,Afternoon (12-17),Business,7/28/2023
+DLVCUST0000285,Jack Zhang,Raleigh,ZONE0020,Morning (8-12),Individual,5/14/2021
+DLVCUST0000286,Rebecca Nair,San Antonio,ZONE0002,Morning (8-12),Individual,8/31/2021
+DLVCUST0000287,Eric Koné,Washington,ZONE0013,Afternoon (12-17),Business,2/14/2020
+DLVCUST0000288,Heather Sharma,Seattle,ZONE0016,Any,Individual,4/29/2021
+DLVCUST0000289,Dennis Shah,Jacksonville,ZONE0012,Morning (8-12),Business,11/10/2020
+DLVCUST0000290,Charles Smith,Virginia Beach,ZONE0014,Afternoon (12-17),Individual,6/29/2022
+DLVCUST0000291,Lei Iyer,Philadelphia,ZONE0007,Evening (17-21),Business,12/19/2020
+DLVCUST0000292,Nicholas Sanchez,Seattle,ZONE0016,Afternoon (12-17),Individual,7/26/2022
+DLVCUST0000293,Sarah Shah,El Paso,ZONE0008,Any,Individual,12/17/2022
+DLVCUST0000294,Carolyn Harris,San Antonio,ZONE0002,Evening (17-21),Business,2/19/2020
+DLVCUST0000295,Hui Adesanya,Austin,ZONE0004,Any,Individual,1/19/2020
+DLVCUST0000296,Samantha Yoon,Virginia Beach,ZONE0014,Any,Business,9/10/2023
+DLVCUST0000297,Edward Wang,St. Louis,ZONE0019,Evening (17-21),Individual,11/24/2022
+DLVCUST0000298,Joseph Thompson,San Jose,ZONE0015,Evening (17-21),Individual,8/30/2021
+DLVCUST0000299,Joshua Singh,El Paso,ZONE0018,Evening (17-21),Business,12/12/2021
+DLVCUST0000300,Vijay Mitchell,Sacramento,ZONE0003,Morning (8-12),Individual,12/11/2021
+DLVCUST0000301,Nicole Zhou,El Paso,ZONE0006,Morning (8-12),Individual,4/17/2021
+DLVCUST0000302,Ronald Wright,Sacramento,ZONE0003,Any,Business,7/30/2020
+DLVCUST0000303,Anthony Wang,Jacksonville,ZONE0012,Afternoon (12-17),Business,6/27/2022
+DLVCUST0000304,Janet Chen,Virginia Beach,ZONE0014,Any,Business,10/7/2020
+DLVCUST0000305,Divya Ndidi,Washington,ZONE0013,Afternoon (12-17),Individual,12/3/2021
+DLVCUST0000306,Nancy Mensah,Austin,ZONE0004,Evening (17-21),Business,2/10/2021
+DLVCUST0000307,Daniel Baker,El Paso,ZONE0006,Morning (8-12),Individual,10/2/2021
+DLVCUST0000308,Joshua King,El Paso,ZONE0008,Evening (17-21),Individual,6/14/2020
+DLVCUST0000309,Michael Zhou,Washington,ZONE0013,Evening (17-21),Business,4/9/2020
+DLVCUST0000310,Priya Harris,Seattle,ZONE0016,Morning (8-12),Individual,8/21/2023
+DLVCUST0000311,Michael Smith,El Paso,ZONE0006,Any,Business,1/9/2023
+DLVCUST0000312,Elizabeth Lim,El Paso,ZONE0018,Evening (17-21),Individual,11/9/2020
+DLVCUST0000313,Daniel Rivera,Pittsburgh,ZONE0009,Evening (17-21),Business,5/13/2023
+DLVCUST0000314,Mason Zhou,Virginia Beach,ZONE0014,Evening (17-21),Individual,6/2/2022
+DLVCUST0000315,Frank Harris,San Antonio,ZONE0011,Morning (8-12),Individual,9/7/2020
+DLVCUST0000316,Daniel Martinez,Seattle,ZONE0016,Morning (8-12),Individual,1/5/2020
+DLVCUST0000317,Betty Green,Jacksonville,ZONE0012,Evening (17-21),Individual,7/3/2022
+DLVCUST0000318,Kevin Lewis,Louisville,ZONE0017,Any,Individual,1/10/2020
+DLVCUST0000319,Donald Brown,El Paso,ZONE0006,Morning (8-12),Individual,3/1/2021
+DLVCUST0000320,Stephanie Choi,Philadelphia,ZONE0007,Afternoon (12-17),Individual,6/11/2021
+DLVCUST0000321,Sofia Huang,Louisville,ZONE0017,Morning (8-12),Individual,6/9/2021
+DLVCUST0000322,Janet Green,Louisville,ZONE0017,Morning (8-12),Individual,10/3/2023
+DLVCUST0000323,Larry Baker,Philadelphia,ZONE0007,Evening (17-21),Business,12/20/2021
+DLVCUST0000324,Liam Baker,Louisville,ZONE0005,Evening (17-21),Business,1/5/2020
+DLVCUST0000325,Hong Kim,Washington,ZONE0013,Afternoon (12-17),Business,7/15/2023
+DLVCUST0000326,Margaret Hall,Virginia Beach,ZONE0014,Evening (17-21),Business,5/13/2022
+DLVCUST0000327,Ming Yang,Austin,ZONE0004,Morning (8-12),Individual,11/24/2022
+DLVCUST0000328,Donald Sow,St. Louis,ZONE0019,Evening (17-21),Individual,1/30/2021
+DLVCUST0000329,Rahul Traoré,Charlotte,ZONE0001,Afternoon (12-17),Business,7/13/2022
+DLVCUST0000330,Helen Jackson,El Paso,ZONE0006,Any,Business,5/14/2022
+DLVCUST0000331,Anthony Yoon,San Antonio,ZONE0002,Morning (8-12),Business,6/13/2020
+DLVCUST0000332,Benjamin Gonzalez,Seattle,ZONE0016,Evening (17-21),Business,11/4/2020
+DLVCUST0000333,Jessica Adams,Louisville,ZONE0005,Morning (8-12),Individual,5/19/2022
+DLVCUST0000334,Donald White,Stockton,ZONE0010,Afternoon (12-17),Business,4/25/2020
+DLVCUST0000335,Divya Traoré,Louisville,ZONE0017,Any,Individual,7/14/2021
+DLVCUST0000336,Sofia Joshi,San Antonio,ZONE0002,Morning (8-12),Individual,7/30/2020
+DLVCUST0000337,Ethan Lewis,Austin,ZONE0004,Evening (17-21),Individual,11/2/2020
+DLVCUST0000338,Joshua Patel,Austin,ZONE0004,Morning (8-12),Individual,4/11/2020
+DLVCUST0000339,Kenneth Harris,Virginia Beach,ZONE0014,Any,Business,7/14/2021
+DLVCUST0000340,Katherine Adesanya,Austin,ZONE0004,Morning (8-12),Individual,9/12/2020
+DLVCUST0000341,Larry Martinez,St. Louis,ZONE0019,Morning (8-12),Business,4/5/2020
+DLVCUST0000342,Sharon Lopez,Charlotte,ZONE0001,Morning (8-12),Individual,11/24/2022
+DLVCUST0000343,David Huang,Washington,ZONE0013,Evening (17-21),Individual,10/5/2020
+DLVCUST0000344,Ava Yang,San Antonio,ZONE0002,Any,Individual,5/21/2021
+DLVCUST0000345,Patricia Martinez,El Paso,ZONE0008,Any,Individual,3/29/2022
+DLVCUST0000346,David Lee,Louisville,ZONE0005,Any,Individual,4/15/2021
+DLVCUST0000347,Linda Jones,San Jose,ZONE0015,Evening (17-21),Individual,5/24/2022
+DLVCUST0000348,Stephen Huang,El Paso,ZONE0008,Evening (17-21),Individual,8/5/2021
+DLVCUST0000349,Sandra Campbell,Charlotte,ZONE0001,Morning (8-12),Individual,8/14/2023
+DLVCUST0000350,Vijay Wang,Pittsburgh,ZONE0009,Evening (17-21),Individual,2/14/2020
+DLVCUST0000351,Dennis Taylor,Pittsburgh,ZONE0009,Morning (8-12),Individual,12/18/2023
+DLVCUST0000352,James Torres,Louisville,ZONE0005,Evening (17-21),Business,4/15/2021
+DLVCUST0000353,William Perez,Louisville,ZONE0005,Afternoon (12-17),Individual,6/9/2020
+DLVCUST0000354,Kevin Choi,San Antonio,ZONE0011,Evening (17-21),Individual,3/11/2023
+DLVCUST0000355,Mia Hall,Pittsburgh,ZONE0009,Any,Individual,5/28/2023
+DLVCUST0000356,Janet Hall,Virginia Beach,ZONE0014,Morning (8-12),Individual,9/4/2020
+DLVCUST0000357,Samuel Singh,Charlotte,ZONE0001,Morning (8-12),Individual,5/21/2023
+DLVCUST0000358,George Harris,El Paso,ZONE0018,Evening (17-21),Business,10/22/2023
+DLVCUST0000359,Timothy Wilson,Jacksonville,ZONE0012,Evening (17-21),Business,10/21/2021
+DLVCUST0000360,Ryan Johnson,El Paso,ZONE0006,Morning (8-12),Individual,4/19/2023
+DLVCUST0000361,Deborah Rodriguez,Seattle,ZONE0016,Evening (17-21),Individual,5/3/2021
+DLVCUST0000362,Samuel Diallo,Pittsburgh,ZONE0009,Any,Individual,4/4/2021
+DLVCUST0000363,Laura Kim,El Paso,ZONE0018,Morning (8-12),Business,11/3/2021
+DLVCUST0000364,Ava Clark,El Paso,ZONE0008,Evening (17-21),Business,9/29/2022
+DLVCUST0000365,Alexander Martinez,Louisville,ZONE0005,Evening (17-21),Individual,6/24/2022
+DLVCUST0000366,Raymond Jackson,Seattle,ZONE0016,Morning (8-12),Individual,9/22/2023
+DLVCUST0000367,Wei Huang,Sacramento,ZONE0003,Morning (8-12),Individual,1/12/2022
+DLVCUST0000368,Frank Osei,St. Louis,ZONE0019,Any,Individual,11/1/2021
+DLVCUST0000369,Jacob Lee,Austin,ZONE0004,Morning (8-12),Business,9/4/2023
+DLVCUST0000370,Rohit Sow,El Paso,ZONE0018,Any,Individual,12/12/2022
+DLVCUST0000371,Nancy Thomas,Louisville,ZONE0005,Any,Individual,10/27/2023
+DLVCUST0000372,Raymond Mensah,Austin,ZONE0004,Morning (8-12),Individual,1/22/2022
+DLVCUST0000373,Gary Ramirez,Pittsburgh,ZONE0009,Afternoon (12-17),Individual,7/22/2023
+DLVCUST0000374,Emma Hall,San Antonio,ZONE0002,Afternoon (12-17),Individual,11/28/2022
+DLVCUST0000375,Jerry Cho,Philadelphia,ZONE0007,Any,Individual,7/26/2021
+DLVCUST0000376,Liam Choi,Louisville,ZONE0017,Evening (17-21),Business,2/15/2022
+DLVCUST0000377,Rohit Zhou,Charlotte,ZONE0001,Morning (8-12),Individual,12/2/2023
+DLVCUST0000378,Ashley Young,St. Louis,ZONE0019,Afternoon (12-17),Individual,11/26/2021
+DLVCUST0000379,William Hall,El Paso,ZONE0018,Evening (17-21),Individual,7/7/2022
+DLVCUST0000380,Daniel Rivera,Austin,ZONE0004,Evening (17-21),Individual,5/13/2021
+DLVCUST0000381,Thomas Ramirez,Washington,ZONE0013,Any,Individual,1/13/2021
+DLVCUST0000382,Donna Moore,El Paso,ZONE0006,Afternoon (12-17),Individual,4/13/2020
+DLVCUST0000383,Robert Jones,Pittsburgh,ZONE0009,Afternoon (12-17),Individual,10/20/2020
+DLVCUST0000384,Matthew Smith,El Paso,ZONE0018,Evening (17-21),Individual,11/16/2020
+DLVCUST0000385,Brandon Martin,El Paso,ZONE0018,Afternoon (12-17),Individual,5/18/2021
+DLVCUST0000386,Nicole Rivera,Virginia Beach,ZONE0014,Evening (17-21),Business,3/2/2023
+DLVCUST0000387,Neha Smith,El Paso,ZONE0018,Any,Individual,7/24/2022
+DLVCUST0000388,Linda Rivera,Virginia Beach,ZONE0014,Afternoon (12-17),Individual,3/6/2020
+DLVCUST0000389,Heather Clark,Louisville,ZONE0017,Any,Individual,5/7/2021
+DLVCUST0000390,Stephen Young,Sacramento,ZONE0003,Morning (8-12),Individual,6/30/2020
+DLVCUST0000391,Jerry Han,Stockton,ZONE0010,Any,Business,3/9/2020
+DLVCUST0000392,Elizabeth Walker,Virginia Beach,ZONE0014,Morning (8-12),Individual,3/10/2020
+DLVCUST0000393,Sneha Roberts,Louisville,ZONE0017,Afternoon (12-17),Individual,8/5/2023
+DLVCUST0000394,Kimberly Gonzalez,Jacksonville,ZONE0012,Morning (8-12),Individual,8/27/2023
+DLVCUST0000395,Maria Nelson,Pittsburgh,ZONE0009,Any,Individual,10/19/2022
+DLVCUST0000396,Rebecca Adams,Sacramento,ZONE0003,Afternoon (12-17),Business,5/7/2020
+DLVCUST0000397,Stephen Kumar,Seattle,ZONE0016,Evening (17-21),Business,6/8/2023
+DLVCUST0000398,Emma Walker,Louisville,ZONE0005,Afternoon (12-17),Individual,1/17/2023
+DLVCUST0000399,Sharon Lewis,San Antonio,ZONE0011,Afternoon (12-17),Business,1/16/2023
+DLVCUST0000400,Patricia Lee,Stockton,ZONE0010,Morning (8-12),Individual,9/17/2022
